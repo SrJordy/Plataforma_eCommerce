@@ -16,7 +16,7 @@ class App extends BaseConfig
      *
      *    http://example.com/
      */
-    public string $baseURL = '34.204.30.64';
+    public string $baseURL = 'http://Casanueva.us-east-1.elasticbeanstalk.com/';
 
     /**
      * Allowed Hostnames in the Site URL other than the hostname in the baseURL.
